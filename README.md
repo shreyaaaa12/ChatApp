@@ -1,4 +1,4 @@
-Real Time Chat Application 
+#Real Time Chat Application 
 This is a chat application that can do many things in real-time. It uses Node JS, React JS, and ChatEngine.io.
 
 The app has features like user login, instant messaging, sending pictures and files, group chats, and direct messages. 
